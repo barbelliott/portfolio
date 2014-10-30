@@ -1,0 +1,21 @@
+header > p{
+	background: rgb(143,163,80); font-family: Calribri;
+	}
+
+.alignleft {
+	float: left;
+	width:33.33333%;
+	text-align:left;
+}
+.aligncenter {
+	float: left;
+	width:33.33333%;
+	text-align:center;
+}
+.alignright {
+	 float: left;
+	 width:33.33333%;
+	 text-align:right;
+}
+
+/*-!rgb(143,163,80);*/	
